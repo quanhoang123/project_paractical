@@ -1,0 +1,194 @@
+    .container {
+        width: 100%;
+        height: auto;
+        padding: 0;
+        border: 1px solid black;
+    }
+    
+    .header {
+        width: 70%;
+        height: 70px;
+        border: 1px solid black;
+        background: rgb(255, 186, 0);
+        /* margin: 0px auto; */
+        float: right;
+        border-left: none;
+    }
+    
+    .logo {
+        height: 60px;
+        width: 60px;
+        margin: -11px 3px;
+    }
+    
+    .text {
+        display: inline-block;
+        width: 124px;
+    }
+    
+    .inputt {
+        display: inline-block;
+        position: relative;
+        bottom: 10px;
+        margin: 0px 2px;
+    }
+    
+    .inputt input {
+        border-radius: 8px;
+        background-color: white;
+    }
+    
+    .icoin {
+        height: 25px;
+        width: 25px;
+        color: darksalmon;
+        display: inline-block;
+        position: relative;
+        right: 41px;
+        top: 5px;
+    }
+    
+    .phone {
+        display: inline-block;
+    }
+    
+    .login {
+        margin-left: 0px;
+        display: inline-block;
+    }
+    
+    .icoin2 {
+        display: inline-block;
+        height: 25px;
+        width: 30px;
+        margin-left: 3px;
+    }
+    
+    .cart {
+        display: inline-block;
+    }
+    
+    .cart button {
+        border-radius: 24px;
+        position: relative;
+        bottom: 5px;
+        background-color: rgb(212, 185, 97);
+    }
+    
+    .leftcontent {
+        width: 30%;
+        height: 70px;
+        border: 1px solid black;
+        background-color: rgb(255, 186, 0);
+    }
+    
+    .DanhMuc {
+        width: 80%;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    
+    .DanhMuc i {
+        border: 1px solid black;
+        border-bottom: none;
+        border-left: none;
+        background: rgb(212, 183, 102);
+        font-size: 100%;
+        width: 100%;
+        height: 39px;
+    }
+    
+    .DanhMuc p i {
+        margin-left: 5px;
+        border: 1px solid black;
+        background-color: rgb(rgb(151, 58, 58));
+    }
+    
+    .DanhMuc select {
+        display: flex;
+        font-size: 100%;
+        width: 100%;
+        height: 40px;
+        border-left: none;
+    }
+    
+    .rightcontent {
+        margin-top: 4px;
+        width: 70%;
+        float: right;
+    }
+    
+    .MainImages img {
+        width: 90%;
+        border-radius: 24px;
+        height: 200px;
+    }
+    
+    .images img {
+        border: 1px solid black;
+        border-radius: 20px;
+        width: 22%;
+        height: 130px;
+        background-color: rgb(255, 186, 0);
+    }
+    
+    .Div1 {
+        border: 1px solid black;
+        width: 90%;
+    }
+    
+    .Div1 img {
+        width: 10%;
+        height: auto;
+        border: 1px solid blue;
+        border-radius: 100px;
+        margin-left: 5px;
+        background-color: rgb(255, 186, 0);
+    }
+    
+    .product {
+        border-top: none;
+        width: 90%;
+        border: 1px solid black;
+    }
+    
+    .items img {
+        width: 50%;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .Div2 {
+        margin-top: 5px;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+    
+    .items {
+        margin-left: 10px;
+        border-right: 1px solid lightgray;
+        width: 90%;
+        text-align: center;
+    }
+    
+    .items i {
+        color: red;
+    }
+    
+    .items button {
+        color: blue;
+    }
+    
+    .items1 {
+        margin-left: 10px;
+        border-right: 1px solid lightgray;
+        width: 90%;
+        text-align: center;
+    }
+    
+    .items img {
+        width: 10%;
+        height: auto;
+        margin-left: 15px;
+    }
